@@ -1,0 +1,6 @@
+{
+  "name": "qa-kit",
+  "version": "0.1.0",
+  "description": "Branch change summary command and a code-review subagent.",
+  "author": { "name": "Zbyněk Možíš" }
+}
